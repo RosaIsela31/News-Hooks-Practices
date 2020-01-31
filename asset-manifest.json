@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/News-Hooks-Practices/static/css/main.61688702.chunk.css",
+    "main.js": "/News-Hooks-Practices/static/js/main.0751d7f8.chunk.js",
+    "main.js.map": "/News-Hooks-Practices/static/js/main.0751d7f8.chunk.js.map",
+    "runtime-main.js": "/News-Hooks-Practices/static/js/runtime-main.230f674c.js",
+    "runtime-main.js.map": "/News-Hooks-Practices/static/js/runtime-main.230f674c.js.map",
+    "static/js/2.c7dae4ab.chunk.js": "/News-Hooks-Practices/static/js/2.c7dae4ab.chunk.js",
+    "static/js/2.c7dae4ab.chunk.js.map": "/News-Hooks-Practices/static/js/2.c7dae4ab.chunk.js.map",
+    "index.html": "/News-Hooks-Practices/index.html",
+    "precache-manifest.b99989e9d8707721ad5df3aeadcd5823.js": "/News-Hooks-Practices/precache-manifest.b99989e9d8707721ad5df3aeadcd5823.js",
+    "service-worker.js": "/News-Hooks-Practices/service-worker.js",
+    "static/css/main.61688702.chunk.css.map": "/News-Hooks-Practices/static/css/main.61688702.chunk.css.map",
+    "static/js/2.c7dae4ab.chunk.js.LICENSE.txt": "/News-Hooks-Practices/static/js/2.c7dae4ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230f674c.js",
+    "static/js/2.c7dae4ab.chunk.js",
+    "static/css/main.61688702.chunk.css",
+    "static/js/main.0751d7f8.chunk.js"
+  ]
+}
